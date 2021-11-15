@@ -1,1 +1,1 @@
-# kangroo-stage-2-C-35-
+# project-template-kangaroo-2
